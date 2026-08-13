@@ -35,5 +35,7 @@ Diseño e implementación del ciclo completo: **ingesta** (TrackMan, Drive, APIs
 
 ## GitHub
 
-![stats](https://github-readme-stats.vercel.app/api?username=serch86&show_icons=true&theme=transparent&hide_border=true&locale=es)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serch86&layout=compact&theme=transparent&hide_border=true&locale=es&hide=jupyter%20notebook,html)
+<p>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=serch86&show_icons=true&theme=transparent&hide_border=true&locale=es&include_all_commits=true&hide=issues&hide_rank=true" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=serch86&layout=compact&theme=transparent&hide_border=true&locale=es&hide=Jupyter%20Notebook,HTML" alt="Lenguajes más usados" />
+</p>
